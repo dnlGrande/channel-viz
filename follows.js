@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= '7G3OFcEcNyHwc76BlJEPxkj53xg9bQQZXm5c3XbZ4Di1vxle', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1218252314], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [1218252314!AdvSens1_bright!AdvSens1_tAmb!AdvSens1_vBatt], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'dnlGrande', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
